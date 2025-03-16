@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\migrations\\20250314145112_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\migrations\\20250314145112_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|c:\\users\\17gie\\downloads\\q3-employee-management-sysytem-master\\q3-employee-management-sysytem-master\\employeemanagmentsystem\\employeemanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D645C73E-7766-4F6A-8979-30C7456CAE78}|EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj|solutionrelative:employeemanagmentsystem\\employeemanagmentsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-16T15:48:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250314145112_init.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Migrations\\20250314145112_init.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Migrations\\20250314145112_init.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Migrations\\20250314145112_init.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Migrations\\20250314145112_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:51:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:57:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:56:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagmentSystem\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T09:27:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwFAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:40:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:58:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:20:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Models\\UserLogin.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:52:56.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:56:17.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagmentSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:14:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManagmentSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Q3-Employee-Management-Sysytem-master\\Q3-Employee-Management-Sysytem-master\\EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+              "RelativeToolTip": "EmployeeManagmentSystem\\EmployeeManagmentSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T08:53:21.44Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
