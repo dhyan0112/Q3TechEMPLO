@@ -35,7 +35,7 @@ Ensure you have the following installed:
 Clone the repository:
 
 ```sh
-git clone https://github.com/A-Hore/Q3-Employee-Management-Sysytem
+git clone https://github.com/dhyan0112/Q3TechEMPLO
 cd EmployeeManagmentSystem
 ```
 
