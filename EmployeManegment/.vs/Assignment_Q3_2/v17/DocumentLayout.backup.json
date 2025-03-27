@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322162211_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322162211_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322151939_initialf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322151939_initialf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322151534_initialfu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322151534_initialfu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322151434_initialful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322151434_initialful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322151257_initialfull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322151257_initialfull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|c:\\users\\17gie\\downloads\\assignment_q3_technology-main (1)\\assignment_q3_technology-main\\employemanegment\\migrations\\20250322150606_initialone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169F8725-7879-4993-8AA6-A68A4CFC1B59}|EmployeManagement.csproj|solutionrelative:migrations\\20250322150606_initialone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:874350774:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\UpdateEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:47:36.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:47:26.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:33:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:28:40.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:29:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:33:32.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:28:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:28:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Services\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Services\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:28:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:02:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:48:28.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:54:00.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateEmployeeDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:47:03.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\AuthDTOs.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthDTOs.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\DTOs\\AuthDTOs.cs",
+              "RelativeToolTip": "DTOs\\AuthDTOs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:46:36.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:29:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:32:50.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T15:55:57.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:32:53.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250322162211_init.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322162211_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322162211_init.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322162211_init.cs",
+              "RelativeToolTip": "Migrations\\20250322162211_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:22:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250322151939_initialf.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151939_initialf.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322151939_initialf.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151939_initialf.cs",
+              "RelativeToolTip": "Migrations\\20250322151939_initialf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:19:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250322151534_initialfu.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151534_initialfu.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322151534_initialfu.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151534_initialfu.cs",
+              "RelativeToolTip": "Migrations\\20250322151534_initialfu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:15:34.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250322151434_initialful.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151434_initialful.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322151434_initialful.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151434_initialful.cs",
+              "RelativeToolTip": "Migrations\\20250322151434_initialful.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:14:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250322151257_initialfull.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151257_initialfull.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322151257_initialfull.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322151257_initialfull.cs",
+              "RelativeToolTip": "Migrations\\20250322151257_initialfull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:12:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250322150606_initialone.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322150606_initialone.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250322150606_initialone.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Migrations\\20250322150606_initialone.cs",
+              "RelativeToolTip": "Migrations\\20250322150606_initialone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:06:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\17gie\\Downloads\\Assignment_Q3_TECHNOLOGY-main (1)\\Assignment_Q3_TECHNOLOGY-main\\EmployeManegment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:02:33.369Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
