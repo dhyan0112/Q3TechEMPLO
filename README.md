@@ -77,7 +77,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/dhyan0112/employee-management.git
+git clone https://github.com/dhyan0112/Q3TechEMPLO.git
 cd employee-management
 
 Install dependencies:
