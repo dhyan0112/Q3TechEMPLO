@@ -58,21 +58,7 @@ namespace Assignment_Q3_2
                     ClockSkew = TimeSpan.Zero // Reduces the default 5 min clock skew
                 };
             });
-            //builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-            //.AddJwtBearer(options =>
-            //{
-            //    options.TokenValidationParameters = new TokenValidationParameters
-            //    {
-            //        ValidateIssuer = true,
-            //        ValidateAudience = true,
-            //        ValidateLifetime = true,
-            //        ValidateIssuerSigningKey = true,
-            //        ValidIssuer = jwtSettings["Issuer"],  // Replace with your issuer
-            //        ValidAudience = jwtSettings["Audience"], // Replace with your audience
-            //        IssuerSigningKey = new SymmetricSecurityKey(key),
-            //        RoleClaimType = "role" // Ensure the role claim is recognized
-            //    }; 
-            //});
+           
             builder.Services.AddAuthorization(options =>
             {
                 options.AddPolicy("admin", policy => policy.RequireRole("admin"));
