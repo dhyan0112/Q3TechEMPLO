@@ -63,8 +63,7 @@ namespace Assignment_Q3_2
             {
                 options.AddPolicy("admin", policy => policy.RequireRole("admin"));
             });
-            //builder.Services.AddAuthorization();
-            //builder.Services.AddAuthorization();
+            
 
             builder.Services.AddSwaggerGen(options =>
             {
